@@ -1,4 +1,4 @@
-def Blackjack
+def blackjack
 
 def welcome
     puts "Welcome to the Blackjack Table"
