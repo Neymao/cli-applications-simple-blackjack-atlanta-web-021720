@@ -13,7 +13,7 @@ def display_card_total(n)
 end
 
 def prompt_user
-  puts 
+  puts "Please enter a valid command"
 end
 
 def get_user_input
