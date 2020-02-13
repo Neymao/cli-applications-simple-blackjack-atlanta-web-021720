@@ -45,7 +45,7 @@ def hit?(current_total)
 end
 
 def invalid_command
-  puts 
+  puts "Type 'h' to hit or 's' to stay"
   prompt_user
   get_user_input
 
